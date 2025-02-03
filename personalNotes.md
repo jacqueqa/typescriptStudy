@@ -1,6 +1,6 @@
 # typescript Study Notes
 
-## Random notes
+
 
 ### Tuples
 Tuples are arrays with with a fixed number of elements where the types of the elements are known and specific to each position.
@@ -96,3 +96,4 @@ function functionName(parameters: ParameterType): void {
 - Void functionscan perform asynchronous operations, but they do not return a promise or any other value.
 
 
+###  
